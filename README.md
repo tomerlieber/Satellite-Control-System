@@ -7,7 +7,7 @@ The project uses a variety of design patterns we learned in the course.
 
 * **Iterator** - the satelite unit implemets this design pattern in order to let us traverse the satelites without exposing its underlying representation to store them (a list in this case).
 
-* **Observer** - the satelite control unit and the satelites implement this design pattern in order to define a subscription mechanism where the satelite control unit notify to the registered satelites about the weather forecast updates. (TODO)
+* **Observer** - the satelite control unit and the satelites implement this design pattern in order to define a subscription mechanism where the satelite control unit notify to the registered satelites about the weather forecast updates.
 
 * **Adapter** - we made an adapter class for the russion satelite because its interface is incompatible, and we want it to collaborate with the satelite control system.
 
