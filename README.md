@@ -13,9 +13,4 @@ The project uses a variety of design patterns we learned in the course.
 
 * **Decorator**, **Strategy** and more.
 
-
 <img src="https://i.ibb.co/jb5qjXG/Satelite-Control-System.jpg" alt="Satelite-Control-System" border="0" height="90%" width="90%">
-
-
-
-there are a variety of algorithms that the satelites can use, for example take a photo and search in text. Each satellite can decide which algorithms it is capable of doing.
