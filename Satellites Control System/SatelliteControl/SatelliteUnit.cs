@@ -70,10 +70,6 @@ namespace SatelliteControl
         public IEnumerator<Satellite> GetEnumerator()
         {
             return new SatelliteUnitEnumerator(mSatellites);
-            //foreach (Satellite satellite in mSatellites)
-            //{
-            //    yield return satellite;
-            //}
         }
 
         IEnumerator IEnumerable.GetEnumerator()

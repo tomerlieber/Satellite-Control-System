@@ -11,8 +11,6 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("asdasd");
-
             // Creates satellites.
             var cyberSatellite = new CyberSatellite(SatelliteUnit.Instance);
             var meteorologicSatellite = new MeteorologicSatellite(SatelliteUnit.Instance);
