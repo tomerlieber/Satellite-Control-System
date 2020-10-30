@@ -1,7 +1,7 @@
 # Satellite Control System
 
 I developed a satellite control system in a design patterns course. I was sent to do this enrichment course at John Bryce College during my military service.
-The project uses a variety of design patterns we learned in the course and written in C#.
+The project uses a variety of design patterns we learned in the course and is written in C#.
 
 * **Singleton** - the satellite control unit implements this design pattern in order to ensure that the class has only one instance and we have a global access point to this instance. The purpose of this class is to control all satellites, for example change the height of a satellite, launch a satellite and more.
 
