@@ -16,7 +16,7 @@ namespace Test
             var meteorologicSatellite = new MeteorologicSatellite(SatelliteUnit.Instance);
             var photoSatellite = new PhotoSatellite(2.0, SatelliteUnit.Instance);
             photoSatellite.ExecuteAbillities();
-
+            §
             var adapteeRussionSatellite = new RussionSatellite();
             var russionSatelliteAdapter = new RussionSatelliteAdapter(adapteeRussionSatellite, SatelliteUnit.Instance);
 

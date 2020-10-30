@@ -21,7 +21,6 @@ namespace SatelliteControl.Satellites
 
         #region Methods
 
-
         private int SearchInText(string filePath, string word)
         {
             string text = "I go to army every day"; // File.ReadAllText(filePath);
