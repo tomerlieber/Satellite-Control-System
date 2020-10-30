@@ -1,4 +1,4 @@
-# Satellite-Control-System
+# Satellite Control System
 
 I developed a satellite control system in a design patterns course. I was sent to do this enrichment course at John Bryce College during my military service.
 The project uses a variety of design patterns we learned in the course.
